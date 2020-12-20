@@ -21,3 +21,21 @@ Inputs the users name and email.
 It also inputs the message from the users
 
 # Technologies used
+*HTML
+*CSS
+*Bootstrap
+*JavaScript
+*jQuery
+
+
+# Screenshot
+![images](logo/logo.png)
+
+
+# Contact information
+weltonandy1@gmail.com
+
+# Live link
+
+
+# License and copyright information

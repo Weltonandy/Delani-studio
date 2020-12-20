@@ -30,7 +30,7 @@ body {
     font-family: 'Comfortaa', cursive;
 }
 .smaller-text{
-    font-family: 'Ubuntu Mono', monospace;
+    font-family: sans-serif;
 }
 .overlay > img, .welcome {
     margin-bottom: 30px;
@@ -94,7 +94,6 @@ figcaption{
 }
 
 .portfolio {
-    /*height: 650px;*/
     padding-bottom: 50px;
 }
 
