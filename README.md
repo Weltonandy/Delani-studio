@@ -17,25 +17,25 @@ Welton Akonya
 
 # Setup instructions
 To get your local copy of the site,go to;
-*git clone https://github.com/Weltonandy/Delani-studio.git
-*Extract the file
-*cd into Delani-studio
-*Open the index.html file to launch
+* git clone https://github.com/Weltonandy/Delani-studio.git
+* Extract the file
+* cd into Delani-studio
+* Open the index.html file to launch
 
 ***
 
 # BDD
-Inputs the users name and email.
-It also inputs the message from the users
+* Inputs the users name and email.
+* It also inputs the message from the users
 
 ***
 
 # Technologies used
-*HTML
-*CSS
-*Bootstrap
-*JavaScript
-*jQuery
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery
 
 ***
 
