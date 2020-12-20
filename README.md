@@ -1,13 +1,19 @@
 # Project Name
-# Delani Studio
+Delani Studio
+
+***
 
 # Project description
 This project is to help understand better the concepts of  Bootstrap and jQuery
 and the previous knowledge on HTML and CSS to recreate a landing page for a
 fictional studio.
 
+***
+
 # Author
 Welton Akonya
+
+***
 
 # Setup instructions
 To get your local copy of the site,go to;
@@ -16,9 +22,13 @@ To get your local copy of the site,go to;
 *cd into Delani-studio
 *Open the index.html file to launch
 
+***
+
 # BDD
 Inputs the users name and email.
 It also inputs the message from the users
+
+***
 
 # Technologies used
 *HTML
@@ -27,15 +37,28 @@ It also inputs the message from the users
 *JavaScript
 *jQuery
 
+***
+
 
 # Screenshot
 ![images](logo/logo.png)
+
+***
 
 
 # Contact information
 weltonandy1@gmail.com
 
+***
+
 # Live link
+
+***
 
 
 # License and copyright information
+MIT License copyright &copy Welton Delani studio 2020
+
+***
+# Collaborations
+For any collaborations or updations please contact me via email.
