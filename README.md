@@ -36,6 +36,7 @@ To get your local copy of the site,go to;
 * Bootstrap
 * JavaScript
 * jQuery
+* Markdown
 
 ***
 
