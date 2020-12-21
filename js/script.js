@@ -11,7 +11,7 @@ $(function () {
     $(devp).hide();
     $(prop).hide();
 
-
+    //show paragraph content
     $('.des').on('click', function () {
         $('.des').slideUp('slow');
         $(desp).show(500);
@@ -44,12 +44,16 @@ $(function () {
         $(prop).hide(500);
         $(protext).animate({fontWeight:'normal',fontSize:'16px'})
     })
+    
+    //overlay images
 
     $('.portimg').hover(function(){
         $('.porttext',this).slideToggle('slow');
      }, function(){
         $('.porttext',this).slideToggle('slow');
      });
+    
+    //form validation
 
         $("form#form").on('submit',function(event){
             event.preventDefault();
