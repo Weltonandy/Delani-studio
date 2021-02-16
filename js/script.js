@@ -45,7 +45,7 @@ $(function () {
         $(protext).animate({fontWeight:'normal',fontSize:'16px'})
     })
     
-    //overlay images
+    //overlay images dispalay
 
     $('.portimg').hover(function(){
         $('.porttext',this).slideToggle('slow');
